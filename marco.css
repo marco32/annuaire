@@ -1,0 +1,24 @@
+li{
+	list-style: none;
+	height: 15%;
+	margin-bottom: 5px;
+}
+.a{
+	width: 97%;
+}
+.form{
+	width: 100%;
+	display: flex;
+}
+.untiers{
+	width: 60%;
+}
+.deuxtiers {
+	width: 20%;
+	margin-top: 4.6%;
+}
+.troistiers{
+	width: 20%;
+	margin-top: 4.6%;
+
+}
